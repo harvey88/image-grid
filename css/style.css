@@ -54,4 +54,14 @@ textarea {
 .ba-container{
 	padding-left: 20px;
 	padding-right: 20px;
+	width: 1200px;
+}
+h1 {
+	width: 1160px;
+	margin: 30px auto 20px;
+	text-align: left;
+	color: #4D5152;
+}
+.ba-footer {
+	margin-top: 20px;
 }
